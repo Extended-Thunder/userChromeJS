@@ -1,7 +1,7 @@
 userChromeJS add-on for Thunderbird 60+
 =======================================
 
-This add-on allows you to create a file called "userChrome.js" in the "chrome" folder inside your Thunderbird profile, which is then loaded into every new Thunderbird window that opens.
+This add-on allows you to create a file called "userChrome.js" in the "chrome" folder inside your Thunderbird profile, which is then loaded into every new Thunderbird window that opens. It also adds a "userChromeJS" toolbar button which, when clicked, reloads your userChrome.js file in the current window.
 
 It is a bare-bones re-implementation of the [old userChromeJS add-on](http://userchromejs.mozdev.org/), which has been unmaintained for a long time.
 

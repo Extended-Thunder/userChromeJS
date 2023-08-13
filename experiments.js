@@ -28,7 +28,7 @@ var userChromeJS = class extends ExtensionCommon.ExtensionAPI {
         context.callOnClose(this);
         return {
             userChromeJS: {
-                addWindowListener(dummy) {
+                addWindowListener() {
                     var prefix = "chrome://messenger/content/";
                     var windows = [
                         "addressbook/addressbook",
@@ -44,6 +44,11 @@ var userChromeJS = class extends ExtensionCommon.ExtensionAPI {
                         chromeURLs: urls,
                         onLoadWindow: paint,
                     });
+                },
+                reload(windowId) {
+                  let window = context.extension.windowManager.get(windowId);
+                  console.log(window);
+                  paint(window.window);
                 }
             }
         }
