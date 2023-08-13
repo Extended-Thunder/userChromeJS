@@ -31,5 +31,13 @@
         "scripts": [
             "background.js"
         ]
-    }
+    },
+    "browser_action": {
+      "allowed_spaces": [],
+      "default_windows": [
+        "normal",
+        "messageDisplay"
+      ]
+    },
+    "compose_action": {}
 }

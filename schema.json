@@ -7,11 +7,17 @@
         "type": "function",
         "description": "Adds a listener to all 3pane, stand-alone, compose, or addressbook windows",
         "async": false,
+        "parameters": []
+      },
+      {
+        "name": "reload",
+        "type": "function",
+        "description": "Reload userChrome.js in current window",
+        "async": false,
         "parameters": [
           {
-            "name": "dummy",
-            "type": "string",
-            "description": "dummy"
+            "name": "windowId",
+            "type": "integer"
           }
         ]
       }
