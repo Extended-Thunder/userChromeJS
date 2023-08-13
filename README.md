@@ -9,7 +9,7 @@ Unlike that old add-on, which provided a bunch of helper functions you could cal
 
 I am open to the possibility of adding a library of helper functions back to the add-on over time, and perhaps also creating a repository of code snippets that do various specific things which shouldn't be shipped with the add-on itself but might be useful for people to look at. For the time being, however, I'm releasing this as-is for people to start using. And by "people" I mean me, because the reason I built this was so that I could start using Thunderbird 68 without losing all of the customizations in my userChrome.js file.
 
-The home page of this add-on is currently [on Github](https://github.com/jikamens/userChromeJS). Also feel free to [contact me](mailto:jik@kamens.us) with questions or feedback.
+The home page of this add-on is currently [on Github](https://github.com/Extended-Thunder/userChromeJS). Also feel free to [contact me](mailto:jik@extended-thunder.org) with questions or feedback.
 
 This add-on is Copyright (C) 2019-2020 Jonathan Kamens. It is released under the terms of the [Mozilla Public License Version 2.0](LICENSE.txt), a copy of which is included in the add-on in the file "LICENSE.txt".
 
