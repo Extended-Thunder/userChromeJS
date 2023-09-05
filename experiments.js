@@ -41,6 +41,7 @@ var userChromeJS = class extends ExtensionCommon.ExtensionAPI {
           var urls = suffixes
             .map((s) => windows.map((w) => prefix + w + "." + s))
             .flat(1);
+          urls.push("chrome://calendar/content/calendar-event-dialog.xhtml");
           // Adds a listener to detect new windows.
           ExtensionSupport.registerWindowListener(EXTENSION_NAME, {
             chromeURLs: urls,
