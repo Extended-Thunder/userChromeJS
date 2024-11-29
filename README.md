@@ -7,10 +7,7 @@ which, when clicked, reloads your userChrome.js file in the current window.
 
 ## Donate
 
-Financial support for the development and maintenance of this add-on to keep it
-free and open-source is provided by Extended Thunder Inc. You can make a
-[recurring][subscribe] or [one-time][donate] donation to Extended Thunder. Your
-donation is tax-deductible in the United States as permitted by law.
+You can support continued development and maintenance of this add-on via [Liberapay][Liberapay] or [Patreon][Patreon] for recurring donations or [Paypal][Paypal] or [Venmo][Venmo] for one-time donations.
 
 ## History
 
@@ -35,14 +32,16 @@ to [contact me][email] with questions or feedback.
 
 ## Copyright and credits
 
-This add-on is Copyright 2019-2020 Jonathan Kamens, 2021-2023 Extended Thunder
-Inc.. It is released under the terms of the [Mozilla Public License Version
-2.0](LICENSE.txt), a copy of which is included in the add-on in the file
-"LICENSE.txt".
+This add-on is Copyright 2019-2020,2024 Jonathan Kamens, 2021-2023
+Extended Thunder Inc.. It is released under the terms of the [Mozilla
+Public License Version 2.0](LICENSE.txt), a copy of which is included
+in the add-on in the file "LICENSE.txt".
 
 Thank you to Jorg K <jorgk@jorgk.com> for the initial port to Thunderbird 78.
 
 [github]: https://github.com/Extended-Thunder/userChromeJS
 [email]: mailto:jik+userChromeJS@extended-thunder.org
-[subscribe]: https://liberapay.com/ExtendedThunder
-[donate]: https://paypal.me/ExtendedThunder
+[Liberapay]: https://liberapay.com/jik
+[Patreon]: https://www.patreon.com/c/jikseclecticofferings
+[Paypal]: https://paypal.me/JonathanKamens
+[Venmo]: https://venmo.com/Jonathan-Kamens
