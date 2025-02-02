@@ -8,7 +8,7 @@
   "applications": {
     "gecko": {
       "id": "userChromeJS@kamens.us",
-      "strict_min_version": "91.0",
+      "strict_min_version": "126.0",
       "strict_max_version": "*"
     }
   },
