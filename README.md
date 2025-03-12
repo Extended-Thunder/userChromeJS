@@ -40,7 +40,7 @@ in the add-on in the file "LICENSE.txt".
 Thank you to Jorg K <jorgk@jorgk.com> for the initial port to Thunderbird 78.
 
 [github]: https://github.com/Extended-Thunder/userChromeJS
-[email]: mailto:jik+userChromeJS@extended-thunder.org
+[email]: mailto:jik+userChromeJS@kamens.us
 [Liberapay]: https://liberapay.com/jik
 [Patreon]: https://www.patreon.com/c/jikseclecticofferings
 [Paypal]: https://paypal.me/JonathanKamens
