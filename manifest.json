@@ -9,7 +9,7 @@
     "gecko": {
       "id": "userChromeJS@kamens.us",
       "strict_min_version": "126.0",
-      "strict_max_version": "136.*"
+      "strict_max_version": "141.*"
     }
   },
   "experiment_apis": {
